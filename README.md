@@ -26,7 +26,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 ## Books
 
 * [Pro .NET Performance: Optimize Your C# Applications](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow (2012)
-* [Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://prodotnetmemory.com) by Konrad Kokosa (2018)
+* [Pro .NET Memory Management: For Better Code, Performance, and Scalability (2nd edition)](https://prodotnetmemory.com) by Konrad Kokosa, Christophe Nasarre, Kevin Gosse (2024)
 * [Pro .NET Benchmarking: The Art of Performance Measurement](https://aakinshin.net/prodotnetbenchmarking/) by Andrey Akinshin (2019)
 * [CLR via C#](https://www.amazon.com/dp/0735667454) by Jeffrey Richter (2012)
 * [Pro Asynchronous Programming with .NET](https://www.amazon.com/dp/1430259205) by Richard Blewett, Andrew Clymer (2013)
@@ -170,9 +170,13 @@ Sorted from newest to oldest:
 * [NBench](https://github.com/petabridge/NBench) - Cross-platform performance benchmarking and testing framework for .NET applications.
 * [CsCheck Faster](https://github.com/AnthonyLloyd/CsCheck#performance-testing) - Random data range, multithreaded, cross-platform/machine, unit testing integrated, relative performance testing.
 ### Profiling
+* [dotnet-trace](https://learn.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-trace) - Cross-platform .NET diagnostic tool
+* [Visual Studio Performance Profiler](https://learn.microsoft.com/en-us/visualstudio/profiling/) - Visual Studio's built-in profiling tools
+* [dotTrace](https://www.jetbrains.com/profiler/) - Paid profiler for .NET applications from the JetBrains team, included in the Resharper Ultimate package
+* [PerfView](https://github.com/microsoft/perfview/) - A CPU and memory performance-analysis tool
+* [ultra](https://github.com/xoofx/ultra) - An advanced profiler for .NET Applications on Windows
 * [Prefix](http://stackify.com/prefix) - Free lightweight profiler for ASP.NET apps shows everything your code is doing across 30+ common libraries
 * [MiniProfiler](https://miniprofiler.com/dotnet/) - Free profiling tool for .NET applications with Entity Framework and ASP.Net integration (Core supported for both versions)
-* [dotTrace](https://www.jetbrains.com/profiler/) - Paid profiler for .NET applications from the JetBrains team, included in the Resharper Ultimate package
 * [Unchase.FluentPerformanceMeter](https://github.com/unchase/Unchase.FluentPerformanceMeter) - Free open-source and cross-platform .Net Standard 2.0 library that is designed for the method’s performance measurement
 * [codetrack](https://www.getcodetrack.com/) - Free .NET performance profiler and execution analyzer
 ### Application Insights
